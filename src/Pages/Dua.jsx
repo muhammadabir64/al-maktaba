@@ -49,7 +49,7 @@ function Dua() {
                     unmount: { scale: 0.9, y: -100 },
                     }}>
                     <DialogHeader className="text-blue-gray-800">{duaData?.name ?? "Loading..."}</DialogHeader>
-                    <DialogBody divider>
+                    <DialogBody divider className="h-[40rem] overflow-scroll">
                         <Typography variant="h6" className="arab-font font-normal text-blue-gray-800" style={{direction: "rtl"}}>{duaData?.arabic ?? "Loading..."}</Typography>
                         <Typography variant="small" className="arab-font font-normal text-blue-gray-800 my-4">{duaData?.transliteration ?? "Loading..."}</Typography>
                         <Typography variant="h6" className="arab-font font-normal text-blue-gray-800">{duaData?.english ?? "Loading..."}</Typography>
