@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "name": "Sahih Al-Bukhari",
+        "cover": "/book_cover/sahih_al_bukhari.png",
+        "description": "Ṣaḥīḥ al-Bukhārī (Arabic: صحيح البخاري‎) is the common name for Bukhārī's Abridged Collection of Authentic Hadith with Connected Chains regarding Matters Pertaining to the Prophet, His practices and His Times Ṣaḥīḥ al-Bukhārī is one of the Kutub al-Sittah (six major hadith collections) of Sunni Islam, compiled by Persian scholar Muhammad al-Bukhari. It was completed around 846 CE / 232 AH. Sunni Muslims view this as one of the two most trusted collections of hadith along with Sahih Muslim. The Arabic word sahih translates as authentic or correct. Sahih al-Bukhari, together with Sahih Muslim is known as Sahihayn.",
+        "vol": [
+            {
+                "title": "Sahih Al Bukhari_en_vol-1.pdf",
+                "link": "https://www.dropbox.com/s/uz37vya9smzvzmj/Sahih%20Al%20Bukhari_en_vol-1.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-2.pdf",
+                "link": "https://www.dropbox.com/s/89s5ty9qm9cgube/Sahih%20Al%20Bukhari_en_vol-2.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-3.pdf",
+                "link": "https://www.dropbox.com/s/zbotma89c945dh1/Sahih%20Al%20Bukhari_en_vol-3.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-4.pdf",
+                "link": "https://www.dropbox.com/s/k9u09zjou4mwxim/Sahih%20Al%20Bukhari_en_vol-4.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-5.pdf",
+                "link": "https://www.dropbox.com/s/lim73alw3k0914l/Sahih%20Al%20Bukhari_en_vol-5.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-6.pdf",
+                "link": "https://www.dropbox.com/s/tnmatmsbdyup3zb/Sahih%20Al%20Bukhari_en_vol-6.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-7.pdf",
+                "link": "https://www.dropbox.com/s/8zaxr6ljebjz5ny/Sahih%20Al%20Bukhari_en_vol-7.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-8.pdf",
+                "link": "https://www.dropbox.com/s/8w4uzxdsnwoj6x9/Sahih%20Al%20Bukhari_en_vol-8.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Al Bukhari_en_vol-9.pdf",
+                "link": "https://www.dropbox.com/s/y2qgdc2me7630u1/Sahih%20Al%20Bukhari_en_vol-9.pdf?dl=1"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sahih Muslim",
+        "cover": "/book_cover/sahih_muslim.jpg",
+        "description": "Sahih Muslim (Arabic: صحيح مسلم‎ , Ṣaḥīḥ Muslim; full title: Al-Musnadu Al-Sahihu bi Naklil Adli) is one of the Kutub al-Sittah (six major hadith collections) in Sunni Islam. It is highly acclaimed by Sunni Muslims as well as Zaidi Shia Muslims.[citation needed] It is considered the second most authentic hadith collection after Sahih al-Bukhari. It was collected by Muslim ibn al-Hajjaj, also known as Imam Muslim. Sahih Muslim, together with Sahih al-Bukhari is termed as Sahihayn.",
+        "vol": [
+            {
+                "title": "Sahih Muslim_en_vol-1.pdf",
+                "link": "https://www.dropbox.com/s/t17f6sozik8bssz/Sahih%20Muslim_en_vol-1.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-2.pdf",
+                "link": "https://www.dropbox.com/s/ys05t6m6no5q233/Sahih%20Muslim_en_vol-2.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-3.pdf",
+                "link": "https://www.dropbox.com/s/mzddmwqvqyz43vo/Sahih%20Muslim_en_vol-3.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-4.pdf",
+                "link": "https://www.dropbox.com/s/v5tycpp892h245d/Sahih%20Muslim_en_vol-4.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-5.pdf",
+                "link": "https://www.dropbox.com/s/kt3w2kjgdodfbyt/Sahih%20Muslim_en_vol-5.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-6.pdf",
+                "link": "https://www.dropbox.com/s/evzlaqxusnd8x27/Sahih%20Muslim_en_vol-6.pdf?dl=1"
+            },
+            {
+                "title": "Sahih Muslim_en_vol-7.pdf",
+                "link": "https://www.dropbox.com/s/j3nyrw9gtfptbxj/Sahih%20Muslim_en_vol-7.pdf?dl=1"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Sunan Abu Dawood",
+        "cover": "/book_cover/sunan_abu_dawood.jpg",
+        "description": "Abu Dawood compiled twenty-one books related to Hadith and preferred those ahadith which were supported by the example of the companions of Muhammad. As for the contradictory ahadith, he states under the heading of 'Meat acquired by hunting for a pilgrim': 'if there are two contradictory reports from the Prophet (SAW), an investigation should be made to establish what his companions have adopted'. He wrote in his letter to the people of Mecca 'I have disclosed wherever there was too much weakness in regard to any tradition in my collection. But if I happen to leave a Hadith without any comment, it should be considered as sound, albeit some of them are more authentic than others'. Hadith Mursal (a tradition in which a companion is omitted and a successor narrates directly from Muhammad) has also been a matter of discussion among the traditionists. Abu Dawood states in his letter to the people of Mecca: 'if a Musnad Hadith (uninterrupted tradition) is not contrary to a Mursal or a Musnad Hadith is not found, then the Mursal Hadith will be accepted though it would not be considered as strong as a Muttasil Hadith (uninterrupted chain)'.",
+        "vol": [
+            {
+                "title": "Sunan Abu Dawood_en_vol-1.pdf",
+                "link": "https://www.dropbox.com/s/lzp5ew391blq8ql/Sunan%20Abu%20Dawood_en_vol-1.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Abu Dawood_en_vol-2.pdf",
+                "link": "https://www.dropbox.com/s/3lsponlibfzakcz/Sunan%20Abu%20Dawood_en_vol-2.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Abu Dawood_en_vol-3.pdf",
+                "link": "https://www.dropbox.com/s/pllhfh84vdofhk7/Sunan%20Abu%20Dawood_en_vol-3.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Abu Dawood_en_vol-4.pdf",
+                "link": "https://www.dropbox.com/s/aqz5hvk5fx160f6/Sunan%20Abu%20Dawood_en_vol-4.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Abu Dawood_en_vol-5.pdf",
+                "link": "https://www.dropbox.com/s/0fx2rvm4dd9q2jx/Sunan%20Abu%20Dawood_en_vol-5.pdf?dl=1"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sunan At-Tirmidhi",
+        "cover": "/book_cover/sunan_at_tirmidhi.jpg",
+        "description": "Jamiʽ at-Tirmidhi (Arabic: جامع الترمذي‎), also known as Sunan at-Tirmidhi, is one of 'the six books' (Kutub al-Sittah - the six major hadith collections). It was collected by Al-Tirmidhi. He began compiling it after the year 250 A.H. (A.D. 864/5) and completed it on the 10 Dhu-al-Hijjah 270 A.H. (A.D. 884, June 9).",
+        "vol": [
+            {
+                "title": "Sunan At Tirmidhi_en_vol-1.pdf",
+                "link": "https://www.dropbox.com/s/ltl8eo7hhgsra54/Sunan%20At%20Tirmidhi_en_vol-1.pdf?dl=1"
+            },
+            {
+                "title": "Sunan At Tirmidhi_en_vol-2.pdf",
+                "link": "https://www.dropbox.com/s/4wyq8xipr9495bj/Sunan%20At%20Tirmidhi_en_vol-2.pdf?dl=1"
+            },
+            {
+                "title": "Sunan At Tirmidhi_en_vol-3.pdf",
+                "link": "https://www.dropbox.com/scl/fi/jyjo7s3dwv0ruc1hpmv1n/Sunan-At-Tirmidhi_en_vol-3.pdf?rlkey=rloy08m4hpy4yybqhftuw4ucg&dl=1"
+            },
+            {
+                "title": "Sunan At Tirmidhi_en_vol-4.pdf",
+                "link": "https://www.dropbox.com/s/t8zqpg0d939e1qw/Sunan%20At%20Tirmidhi_en_vol-5.pdf?dl=1"
+            },
+            {
+                "title": "Sunan At Tirmidhi_en_vol-5.pdf",
+                "link": "https://www.dropbox.com/s/vcwbctv0hzmqwf9/Sunan%20At%20Tirmidhi_en_vol-6.pdf?dl=1"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sunan An-Nasa'i",
+        "cover": "/book_cover/sunan_an_nasai.jpg",
+        "description": "Al-Sunan al-Sughra (Arabic: السنن الصغرى‎), also known as Sunan an-Nasa'i (Arabic: سنن النسائي‎), is one of the Kutub al-Sittah (six major hadiths), and was collected by Al-Nasa'i (214 – 303 AH; c. 829 – 915 CE). Sunnis regard this collection as the fifth most important of their six major hadith collections.Al-Mujtaba (English: the selected) has about 5,270 hadiths, including repeated narrations, which the author selected from his larger work, As-Sunan al-Kubra. It is considered the most authentic book of hadith (narrations of Prophet Muhammad) after the Sahihayn (Sahih al-Bukhari & Sahih Muslim) by most scholars of hadith.",
+        "vol": [
+            {
+                "title": "Sunan-an-Nasai-Vol.-1-1-876.pdf",
+                "link": "https://www.dropbox.com/s/gp7wtwfq2yus761/Sunan-an-Nasai-Vol.-1-1-876.pdf?dl=1"
+            },
+            {
+                "title": "Sunan-an-Nasai-Vol.-2-877-1818.pdf",
+                "link": "https://www.dropbox.com/s/v366bk9p9nx8v7f/Sunan-an-Nasai-Vol.-2-877-1818.pdf?dl=1"
+            },
+            {
+                "title": "Sunan-an-Nasai-Vol.-3-1819-3086.pdf",
+                "link": "https://www.dropbox.com/s/ux2b43hko4s6f6w/Sunan-an-Nasai-Vol.-3-1819-3086.pdf?dl=1"
+            },
+            {
+                "title": "Sunan-an-Nasai-Vol.-4-3087-3970.pdf",
+                "link": "https://www.dropbox.com/s/gaflzh7wkn2c1o7/Sunan-an-Nasai-Vol.-4-3087-3970.pdf?dl=1"
+            },
+            {
+                "title": "Sunan-an-Nasai-Vol.-5-3971-4987.pdf",
+                "link": "https://www.dropbox.com/s/821h7yzdriji3n4/Sunan-an-Nasai-Vol.-5-3971-4987.pdf?dl=1"
+            },
+            {
+                "title": "Sunan-an-Nasai-Vol.-6-4988-5761.pdf",
+                "link": "https://www.dropbox.com/s/n86cixovvhzopnz/Sunan-an-Nasai-Vol.-6-4988-5761.pdf?dl=1"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sunan Ibn Majah",
+        "cover": "/book_cover/sunan_an_nasai.jpg",
+        "description": "Sunan Ibn Mājah (Arabic: سُنن ابن ماجه‎) is one of the six major Sunni hadith collections (Kutub al-Sittah). The Sunan was authored by Ibn Mājah (b. 209/824, d. 273/887). It contains over 4,000 aḥādīth in 32 books (kutub) divided into 1,500 chapters (abwāb). About 20 of the traditions it contains were later declared to be forged; such as those dealing with the merits of individuals, tribes or towns, including Ibn Mājah's home town of Qazwin.",
+        "vol": [
+            {
+                "title": "Sunan Ibn Majah_en_vol-1.pdf",
+                "link": "https://www.dropbox.com/s/mbe6sw8752b8fsa/Sunan%20Ibn%20Majah_en_vol-1.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Ibn Majah_en_vol-2.pdf",
+                "link": "https://www.dropbox.com/s/5ozzph0z37bs0pm/Sunan%20Ibn%20Majah_en_vol-2.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Ibn Majah_en_vol-3.pdf",
+                "link": "https://www.dropbox.com/s/lev913wssizt1tu/Sunan%20Ibn%20Majah_en_vol-3.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Ibn Majah_en_vol-4.pdf",
+                "link": "https://www.dropbox.com/s/3hsjnw936ebemsv/Sunan%20Ibn%20Majah_en_vol-4.pdf?dl=1"
+            },
+            {
+                "title": "Sunan Ibn Majah_en_vol-5.pdf",
+                "link": "https://www.dropbox.com/s/3ov469lyiffop72/Sunan%20Ibn%20Majah_en_vol-5.pdf?dl=1"
+            }
+        ]
+    }
+]
