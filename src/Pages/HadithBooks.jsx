@@ -50,7 +50,7 @@ function HadithBooks() {
             </div>
             ))}
 
-            <Drawer placement="right" open={open} onClose={closeDrawer} className="py-4 px-3">
+            <Drawer placement="right" open={open} onClose={closeDrawer} className="py-4 px-3 overflow-y-auto">
             <div className="row">
                 <div className="col-12 mb-4">
                 <Typography variant="h4" className="text-center text-blue-gray-800 mb-2">
