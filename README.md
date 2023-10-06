@@ -10,5 +10,3 @@ Embark on a profound odyssey of self-discovery and devotion as you traverse this
 Visit: https://al-maktaba.netlify.app
 
 Old Site: https://muhammadabir64.github.io/ummah-path
-
-![image](https://github.com/muhammadabir64/al-maktaba/assets/51321911/53ea6126-9e16-4173-a673-23cb760ae52f)
