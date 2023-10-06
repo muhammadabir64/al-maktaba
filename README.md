@@ -1,4 +1,5 @@
-![image](https://github.com/muhammadabir64/al-maktaba/assets/51321911/10d627d0-34de-470f-b54a-13b3e332f120)# Al-Maktaba
+# Al-Maktaba
+![image](https://github.com/muhammadabir64/al-maktaba/assets/51321911/10d627d0-34de-470f-b54a-13b3e332f120)
 Step into the sacred realm of Al-Maktaba, a digital sanctuary dedicated to preserving and nurturing the spiritual heritage of Islam. The name 'Al-Maktaba' itself, derived from Arabic, translates to 'The Library,' embodying our commitment to being a comprehensive repository of Islamic knowledge and wisdom.
 
 Within Al-Maktaba's virtual shelves, you'll uncover a wealth of divine treasures. Explore the Asma-ul-Husna, the beautiful names of Allah, each shining a unique light on His infinite attributes. Navigate the Quran with transliteration, making its profound verses accessible to all, bridging linguistic divides and allowing the Quran's timeless teachings to resonate within your heart.
