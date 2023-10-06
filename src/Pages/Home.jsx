@@ -60,7 +60,7 @@ function Home() {
                     </Link>
                     </div>
                     <div className="col-md-6">
-                    <Link to="/">
+                    <Link to="/dua">
                     <Card className="mt-6 card_hover">
                         <CardBody>
                             <Typography variant="h5" color="blue-gray" className="text-center mb-2">
