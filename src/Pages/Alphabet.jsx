@@ -26,7 +26,7 @@ function Alphabet() {
                     <Typography variant="h2" className="text-center text-blue-gray-800">Arabic Alphabet</Typography>
                     <div class="border-t border-gray-300 mb-4 mt-2 mx-auto bg-blue-gray-500"></div>
                 </div>
-                <div className="col-12 flex flex-wrap gap-5">
+                <div className="col-12 flex flex-wrap flex-row-reverse gap-5">
                     {data.map((alphabet) => (
                         <Card>
                             <CardBody className="text-center py-2">
