@@ -41,101 +41,106 @@
     },
     {
         "id": 9,
+        "alphabet": "ذ",
+        "english": "Dhāl"
+    },
+    {
+        "id": 10,
         "alphabet": "ر",
         "english": "Rā'"
     },
     {
-        "id": 10,
+        "id": 11,
         "alphabet": "ز",
         "english": "Zāy"
     },
     {
-        "id": 11,
+        "id": 12,
         "alphabet": "س",
         "english": "Sīn"
     },
     {
-        "id": 12,
+        "id": 13,
         "alphabet": "ش",
         "english": "Shīn"
     },
     {
-        "id": 13,
+        "id": 14,
         "alphabet": "ص",
         "english": "Ṣād"
     },
     {
-        "id": 14,
+        "id": 15,
         "alphabet": "ض",
         "english": "Ḍād"
     },
     {
-        "id": 15,
+        "id": 16,
         "alphabet": "ط",
         "english": "Ṭā'"
     },
     {
-        "id": 16,
+        "id": 17,
         "alphabet": "ظ",
         "english": "Ẓā'"
     },
     {
-        "id": 17,
+        "id": 18,
         "alphabet": "ع",
         "english": "ayn"
     },
     {
-        "id": 18,
+        "id": 19,
         "alphabet": "غ",
         "english": "Ghayn"
     },
     {
-        "id": 19,
+        "id": 20,
         "alphabet": "ف",
         "english": "Fā'"
     },
     {
-        "id": 20,
+        "id": 21,
         "alphabet": "ق",
         "english": "Qāf"
     },
     {
-        "id": 21,
+        "id": 22,
         "alphabet": "ك",
         "english": "Kāf"
     },
     {
-        "id": 22,
+        "id": 23,
         "alphabet": "ل",
         "english": "Lām"
     },
     {
-        "id": 23,
+        "id": 24,
         "alphabet": "م",
         "english": "Mīm"
     },
     {
-        "id": 24,
+        "id": 25,
         "alphabet": "ن",
         "english": "Nūn"
     },
     {
-        "id": 25,
+        "id": 26,
         "alphabet": "ه",
         "english": "Hā'"
     },
     {
-        "id": 26,
+        "id": 27,
         "alphabet": "و",
         "english": "Wāw"
     },
     {
-        "id": 27,
+        "id": 28,
         "alphabet": "ي",
         "english": "Yā'"
     },
     {
-        "id": 28,
+        "id": 29,
         "alphabet": "ء",
         "english": "Hamza"
     }
