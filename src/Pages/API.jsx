@@ -26,7 +26,7 @@ function API() {
                     <ApiBlocks title="Asma-ul-Husna" description="Explore the divine 'Beautiful Names' of Allah (God) in Islam. Access meanings and attributes for spiritual reflection." url="asma-ul-husna.json" />
                     <ApiBlocks title="Al-Quran" description="Access the holy Quran, the sacred scripture of Islam, with ease. Retrieve verses, translations, and more for spiritual enlightenment." url="al-quran.json" />
                     <ApiBlocks title="Hadith Books" description="Explore essential Hadith collections for insights into the teachings of Prophet Muhammad (peace be upon him). Access authentic narrations and valuable knowledge." url="hadith-books.json" />
-                    <ApiBlocks title="Duas" description="Discover significant supplications (Duas) in Islam for blessings and guidance. Access a collection of important prayers for various occasions." url="dua.api" />
+                    <ApiBlocks title="Duas" description="Discover significant supplications (Duas) in Islam for blessings and guidance. Access a collection of important prayers for various occasions." url="dua.json" />
                     <ApiBlocks title="Alphabets" description="Access data related to the Arabic alphabets, comprising 28 fundamental characters. Ideal for educational and language-related applications." url="alphabet.json" />
                 </div>
                 </div>
